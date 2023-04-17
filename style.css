@@ -1,0 +1,187 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    scroll-behavior: smooth;
+}
+
+body{
+    background-color: 6cb0f8;
+}
+
+.NavbarHead{
+    width: 100%;
+    text-align: center;
+    background-color: #ea3d33;
+    padding: 1%;
+}
+
+.NavbarHead a {
+    text-decoration: none;
+    font-size: 20px;
+    padding: 0px 20px;
+    color: white;
+}
+
+.NavbarHead a:hover {
+    opacity: 70%;
+}
+
+.NavbarHead img {
+    /* padding: 30px; */
+    position: static;
+    width: 5%;
+    /* float: left; */
+}
+
+header{
+    margin: 2px auto;
+    background-color: #111932;
+    width: 100%;
+}
+
+section{
+    background-color: #1b5c84;
+}
+
+.HeadTagNAME{
+    margin: 6px auto;
+    width: 90%;
+    /* text-align: center; */
+    padding: 60px;
+    background-color: #1b5c84;
+   /* border: 1px solid white;*/
+}
+
+.HeadTagNAME h1{
+    background-color: #272a64;
+    border-radius: 0px 20px 0px 20px;
+    width: 25%;
+    padding: 10px;
+    margin: 0px 0px 2px 0px;
+    -webkit-border-radius: 0px 20px 0px 20px;
+    -moz-border-radius: 0px 20px 0px 20px;
+    -ms-border-radius: 0px 20px 0px 20px;
+    -o-border-radius: 0px 20px 0px 20px;
+}
+
+.HeadTagNAME p{
+    font-size: 20px;
+}
+
+
+.HisSection{
+    margin: 6px auto;
+    width: 90%;
+    padding: 60px;
+    background-color: #1b5c84;
+   /* border: 1px solid white;*/
+}
+
+.HisSection h1{
+    border-radius: 0px 20px 0px 20px;
+    background-color: #272a64;
+    width: 25%;
+    padding: 15px;
+    margin: 0px 0px 15px 0px;
+    -webkit-border-radius: 0px 20px 0px 20px;
+    -moz-border-radius: 0px 20px 0px 20px;
+    -ms-border-radius: 0px 20px 0px 20px;
+    -o-border-radius: 0px 20px 0px 20px;
+}
+
+.HisSection p{
+    font-size: 20px;
+}
+
+.UniSection{
+    margin: 6px auto;
+    width: 90%;
+    padding: 60px;
+    background-color: #1b5c84;
+   /* border: 1px solid white;*/
+
+}
+
+.UniSection h1{
+    border-radius: 0px 20px 0px 20px;
+    background-color: #272a64;
+    width: 25%;
+    padding: 10px;
+    margin: 0px 0px 5px 0px;
+    -webkit-border-radius: 0px 20px 0px 20px;
+    -moz-border-radius: 0px 20px 0px 20px;
+    -ms-border-radius: 0px 20px 0px 20px;
+    -o-border-radius: 0px 20px 0px 20px;
+}
+
+.UniSection img {
+    border-radius: 0px 20px 0px 20px;
+    position: relative;
+    width: 9% ;
+    float: right;
+    -webkit-border-radius: 0px 20px 0px 20px;
+    -moz-border-radius: 0px 20px 0px 20px;
+    -ms-border-radius: 0px 20px 0px 20px;
+    -o-border-radius: 0px 20px 0px 20px;
+}
+
+.UniSection p{
+    font-size: 20px;
+}
+
+.TeamSection{
+    margin: 1px auto;
+    width: 90%;
+    padding: 50px;
+    background-color: #272a64;
+    /*border: 2px solid white;*/
+}
+
+.TeamSection h1{
+    background-color: #1b5c84;
+    border: 1px solid white;
+    border-radius: 0px 20px 0px 20px;
+    width: 25%;
+    padding: 15px;
+    -webkit-border-radius: 0px 20px 0px 20px;
+    -moz-border-radius: 0px 20px 0px 20px;
+    -ms-border-radius: 0px 20px 0px 20px;
+    -o-border-radius: 0px 20px 0px 20px;
+}
+
+.TeamSection img {
+    position: static;
+    width: 50% ;
+    float: right;
+}
+
+.TeamSection p{
+    font-size: 20px;
+}
+
+
+span{
+    color: #6cb0f8;
+}
+
+footer {
+    background-color: #111932;
+    padding: 20px;
+    margin: 0px auto;
+
+}
+
+footer h4 {
+    text-align: center;
+    color: white;
+}
+
+footer img {
+    position: relative;
+    margin: 0px auto;
+    width: 5%;
+}
